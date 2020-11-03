@@ -1,0 +1,6 @@
+framework module Pods_MushRoomNoteApp {
+  umbrella header "Pods-MushRoomNoteApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

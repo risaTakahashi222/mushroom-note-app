@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2278788D48C25C90AE29C2AD /* Pods_MushRoomNoteAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A088A104E6FF995C8E702FAD /* Pods_MushRoomNoteAppTests.framework */; };
 		A7C5E310251A281D00D111DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C5E30F251A281D00D111DB /* AppDelegate.swift */; };
 		A7C5E312251A281D00D111DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C5E311251A281D00D111DB /* SceneDelegate.swift */; };
 		A7C5E314251A281D00D111DB /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C5E313251A281D00D111DB /* FirstViewController.swift */; };
@@ -16,6 +17,8 @@
 		A7C5E31E251A281F00D111DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7C5E31C251A281F00D111DB /* LaunchScreen.storyboard */; };
 		A7C5E329251A281F00D111DB /* MushRoomNoteAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C5E328251A281F00D111DB /* MushRoomNoteAppTests.swift */; };
 		A7C5E334251A281F00D111DB /* MushRoomNoteAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7C5E333251A281F00D111DB /* MushRoomNoteAppUITests.swift */; };
+		CC5799B2F51D5FFC9ACB0C67 /* Pods_MushRoomNoteApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 521EBEF688234CED39F20E16 /* Pods_MushRoomNoteApp.framework */; };
+		F397D11EF6B5A722EFEC9508 /* Pods_MushRoomNoteApp_MushRoomNoteAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 98EFEA6EE335619FC7FE53AE /* Pods_MushRoomNoteApp_MushRoomNoteAppUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		006FF81AE7ECC45AA56B1808 /* Pods-MushRoomNoteApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MushRoomNoteApp.debug.xcconfig"; path = "Target Support Files/Pods-MushRoomNoteApp/Pods-MushRoomNoteApp.debug.xcconfig"; sourceTree = "<group>"; };
+		0B712F4E45B4852DA0B4C419 /* Pods-MushRoomNoteApp-MushRoomNoteAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MushRoomNoteApp-MushRoomNoteAppUITests.debug.xcconfig"; path = "Target Support Files/Pods-MushRoomNoteApp-MushRoomNoteAppUITests/Pods-MushRoomNoteApp-MushRoomNoteAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		3062374E3050DC3CE81F7309 /* Pods-MushRoomNoteApp-MushRoomNoteAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MushRoomNoteApp-MushRoomNoteAppUITests.release.xcconfig"; path = "Target Support Files/Pods-MushRoomNoteApp-MushRoomNoteAppUITests/Pods-MushRoomNoteApp-MushRoomNoteAppUITests.release.xcconfig"; sourceTree = "<group>"; };
+		41D5DC04514C4DD8B04EAEB6 /* Pods-MushRoomNoteAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MushRoomNoteAppTests.release.xcconfig"; path = "Target Support Files/Pods-MushRoomNoteAppTests/Pods-MushRoomNoteAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		515D7E1EBD4A029843E2904C /* Pods-MushRoomNoteApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MushRoomNoteApp.release.xcconfig"; path = "Target Support Files/Pods-MushRoomNoteApp/Pods-MushRoomNoteApp.release.xcconfig"; sourceTree = "<group>"; };
+		521EBEF688234CED39F20E16 /* Pods_MushRoomNoteApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MushRoomNoteApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		98EFEA6EE335619FC7FE53AE /* Pods_MushRoomNoteApp_MushRoomNoteAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MushRoomNoteApp_MushRoomNoteAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A088A104E6FF995C8E702FAD /* Pods_MushRoomNoteAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MushRoomNoteAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7C5E30C251A281D00D111DB /* MushRoomNoteApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MushRoomNoteApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7C5E30F251A281D00D111DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7C5E311251A281D00D111DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +62,7 @@
 		A7C5E32F251A281F00D111DB /* MushRoomNoteAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MushRoomNoteAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7C5E333251A281F00D111DB /* MushRoomNoteAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MushRoomNoteAppUITests.swift; sourceTree = "<group>"; };
 		A7C5E335251A281F00D111DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE25FA1B2E2E2B2ECE21A063 /* Pods-MushRoomNoteAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MushRoomNoteAppTests.debug.xcconfig"; path = "Target Support Files/Pods-MushRoomNoteAppTests/Pods-MushRoomNoteAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC5799B2F51D5FFC9ACB0C67 /* Pods_MushRoomNoteApp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +78,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2278788D48C25C90AE29C2AD /* Pods_MushRoomNoteAppTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +86,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F397D11EF6B5A722EFEC9508 /* Pods_MushRoomNoteApp_MushRoomNoteAppUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1761434ED92431F38BD541C9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				521EBEF688234CED39F20E16 /* Pods_MushRoomNoteApp.framework */,
+				98EFEA6EE335619FC7FE53AE /* Pods_MushRoomNoteApp_MushRoomNoteAppUITests.framework */,
+				A088A104E6FF995C8E702FAD /* Pods_MushRoomNoteAppTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2A0DB8C202796CAE945DD817 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				006FF81AE7ECC45AA56B1808 /* Pods-MushRoomNoteApp.debug.xcconfig */,
+				515D7E1EBD4A029843E2904C /* Pods-MushRoomNoteApp.release.xcconfig */,
+				0B712F4E45B4852DA0B4C419 /* Pods-MushRoomNoteApp-MushRoomNoteAppUITests.debug.xcconfig */,
+				3062374E3050DC3CE81F7309 /* Pods-MushRoomNoteApp-MushRoomNoteAppUITests.release.xcconfig */,
+				AE25FA1B2E2E2B2ECE21A063 /* Pods-MushRoomNoteAppTests.debug.xcconfig */,
+				41D5DC04514C4DD8B04EAEB6 /* Pods-MushRoomNoteAppTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		A7C5E303251A281D00D111DB = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +124,8 @@
 				A7C5E327251A281F00D111DB /* MushRoomNoteAppTests */,
 				A7C5E332251A281F00D111DB /* MushRoomNoteAppUITests */,
 				A7C5E30D251A281D00D111DB /* Products */,
+				2A0DB8C202796CAE945DD817 /* Pods */,
+				1761434ED92431F38BD541C9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,9 +179,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A7C5E338251A281F00D111DB /* Build configuration list for PBXNativeTarget "MushRoomNoteApp" */;
 			buildPhases = (
+				31FE59A1679DB1E56C13E196 /* [CP] Check Pods Manifest.lock */,
 				A7C5E308251A281D00D111DB /* Sources */,
 				A7C5E309251A281D00D111DB /* Frameworks */,
 				A7C5E30A251A281D00D111DB /* Resources */,
+				BDEA633B0750906F71B1C6D9 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -155,6 +198,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A7C5E33B251A281F00D111DB /* Build configuration list for PBXNativeTarget "MushRoomNoteAppTests" */;
 			buildPhases = (
+				5B9024BBCAE62F1FDDDD10FB /* [CP] Check Pods Manifest.lock */,
 				A7C5E320251A281F00D111DB /* Sources */,
 				A7C5E321251A281F00D111DB /* Frameworks */,
 				A7C5E322251A281F00D111DB /* Resources */,
@@ -173,9 +217,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A7C5E33E251A281F00D111DB /* Build configuration list for PBXNativeTarget "MushRoomNoteAppUITests" */;
 			buildPhases = (
+				0236935AAC8AF2448A07F1D7 /* [CP] Check Pods Manifest.lock */,
 				A7C5E32B251A281F00D111DB /* Sources */,
 				A7C5E32C251A281F00D111DB /* Frameworks */,
 				A7C5E32D251A281F00D111DB /* Resources */,
+				0B935D0D4165551C64C38500 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -256,6 +302,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0236935AAC8AF2448A07F1D7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MushRoomNoteApp-MushRoomNoteAppUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		0B935D0D4165551C64C38500 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MushRoomNoteApp-MushRoomNoteAppUITests/Pods-MushRoomNoteApp-MushRoomNoteAppUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MushRoomNoteApp-MushRoomNoteAppUITests/Pods-MushRoomNoteApp-MushRoomNoteAppUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MushRoomNoteApp-MushRoomNoteAppUITests/Pods-MushRoomNoteApp-MushRoomNoteAppUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		31FE59A1679DB1E56C13E196 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MushRoomNoteApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5B9024BBCAE62F1FDDDD10FB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MushRoomNoteAppTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BDEA633B0750906F71B1C6D9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MushRoomNoteApp/Pods-MushRoomNoteApp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MushRoomNoteApp/Pods-MushRoomNoteApp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MushRoomNoteApp/Pods-MushRoomNoteApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		A7C5E308251A281D00D111DB /* Sources */ = {
@@ -436,10 +585,12 @@
 		};
 		A7C5E339251A281F00D111DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 006FF81AE7ECC45AA56B1808 /* Pods-MushRoomNoteApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MushRoomNoteApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -453,10 +604,12 @@
 		};
 		A7C5E33A251A281F00D111DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 515D7E1EBD4A029843E2904C /* Pods-MushRoomNoteApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MushRoomNoteApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -470,12 +623,13 @@
 		};
 		A7C5E33C251A281F00D111DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AE25FA1B2E2E2B2ECE21A063 /* Pods-MushRoomNoteAppTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MushRoomNoteAppTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -491,12 +645,13 @@
 		};
 		A7C5E33D251A281F00D111DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 41D5DC04514C4DD8B04EAEB6 /* Pods-MushRoomNoteAppTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MushRoomNoteAppTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -512,10 +667,12 @@
 		};
 		A7C5E33F251A281F00D111DB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0B712F4E45B4852DA0B4C419 /* Pods-MushRoomNoteApp-MushRoomNoteAppUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MushRoomNoteAppUITests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -531,10 +688,12 @@
 		};
 		A7C5E340251A281F00D111DB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3062374E3050DC3CE81F7309 /* Pods-MushRoomNoteApp-MushRoomNoteAppUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = MushRoomNoteAppUITests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
