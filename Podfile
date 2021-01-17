@@ -7,6 +7,7 @@ target 'MushRoomNoteApp' do
 
   pod 'FSCalendar'
   pod 'CalculateCalendarLogic'
+  pod 'ScrollableGraphView'
 
   # Pods for MushRoomNoteApp
 

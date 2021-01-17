@@ -1,20 +1,24 @@
 PODS:
   - CalculateCalendarLogic (0.3.0)
   - FSCalendar (2.8.1)
+  - ScrollableGraphView (4.0.6)
 
 DEPENDENCIES:
   - CalculateCalendarLogic
   - FSCalendar
+  - ScrollableGraphView
 
 SPEC REPOS:
   trunk:
     - CalculateCalendarLogic
     - FSCalendar
+    - ScrollableGraphView
 
 SPEC CHECKSUMS:
   CalculateCalendarLogic: cd5b2c706a8628bb924c5ee9d05c4f61bdbaf390
   FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  ScrollableGraphView: 4af35d4ea9ecdec665d34a74da51da161ddff8ac
 
-PODFILE CHECKSUM: 9e04de38ca71871e1272254e0de0963d91a448c4
+PODFILE CHECKSUM: 38251edccb726808a18cb2f38d8a1c8107e2cfe3
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.10.1
